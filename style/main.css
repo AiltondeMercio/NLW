@@ -1,0 +1,25 @@
+:root {
+    --title-color: #322153; 
+    --primary-color: #34cb79; 
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+body {
+    background: #f0f0f5;
+}
+
+a {
+    text-decoration: none;
+}
+
+
